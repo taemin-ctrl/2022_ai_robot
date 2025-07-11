@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include <SoftwareSerial.h>
 
 #include <DFRobotDFPlayerMini.h>
